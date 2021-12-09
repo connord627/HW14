@@ -1,19 +1,23 @@
 {
+  "dependencies": {
+    "mongodb": "^4.2.1"
+  },
   "name": "HW14",
   "version": "1.0.0",
-  "description": "my homework app",
   "main": "getdata.js",
+  "devDependencies": {},
   "scripts": {
-  "start": "node getdata.js"
-},
+    "start": "node getdata.js"
+  },
   "repository": {
-  "type": "git",
-  "url": ""
-},
+    "type": "git",
+    "url": "git+https://github.com/connord627/HW14.git"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
-  "url": ""
-},
-  "homepage": ""
+    "url": "https://github.com/connord627/HW14/issues"
+  },
+  "homepage": "https://github.com/connord627/HW14#readme",
+  "description": ""
 }
